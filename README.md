@@ -1,2 +1,2 @@
-# ansible-role-security-apache
+# Ansible Role - Improve security of apache
 
